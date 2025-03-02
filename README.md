@@ -8,3 +8,4 @@
 Все стили должны быть по БЭМ. Стиль именования - two dashes: block-name\_\_elem-name--mod-name--mod-val
 На мобилке меню скроллится с помощью стандартного горизонтального скролла, см. свойство overflow service-enterWebCore
 # Service-enter_hw1
+# Service-enter_hw1
