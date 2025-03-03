@@ -7,3 +7,4 @@
 
 Все стили должны быть по БЭМ. Стиль именования - two dashes: block-name\_\_elem-name--mod-name--mod-val
 На мобилке меню скроллится с помощью стандартного горизонтального скролла, см. свойство overflow
+https://github.com/Aleksandr-colab/ServiceCenterMain
