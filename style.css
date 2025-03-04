@@ -29,7 +29,8 @@
 *{
     box-sizing: border-box;
 }
-ul,li,button,a,img,h1,h2,h3{
+ul,li,button,a,img,h1
+{
     margin: 0;
     padding: 0;
     list-style: none;
